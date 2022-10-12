@@ -1,0 +1,3 @@
+= Hello JAX-WS container for testing WS clients
+
+Based on https://github.com/l2x6/helloworld-ws
